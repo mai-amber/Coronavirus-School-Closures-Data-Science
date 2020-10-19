@@ -1,4 +1,4 @@
-# Coronavirus-School-Closures-Data-Science
+# Exploring Coronavirus School Closures Through Data
 Udacity Data Scientist Project 1
 
 ### This project set out to answer the following questions:
