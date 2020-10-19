@@ -12,6 +12,6 @@ Udacity Data Scientist Project 1
 2. a COVID-19 dataset including daily confirmed cases from Our World in Data
 
 ### The project consists of the following:
-1. A jupyter notebook of the code written
+1. A Jupyter notebook of the code written
 2. A blog post on Medium, at the following link: 
 https://medium.com/@maimon.amber/coronavirus-and-schools-what-can-we-learn-from-following-the-data-trail-36d684629a31
