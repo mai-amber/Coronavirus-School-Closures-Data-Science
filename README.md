@@ -11,9 +11,7 @@ Udacity Data Scientist Project 1
 The program was created using Python 3.
 
 ### Project Motivation:
-This is a project submitted as part of the data science nanodegree on Udacity. The aims of this project were to test a number of hypotheses related to school closures due to COVID-19. 
-
-The key questions were:
+This is a project submitted as part of the data science nanodegree on Udacity. The aims of this project were to test a number of hypotheses related to school closures due to COVID-19. The question often arises whether or not this is an affective strategy, I wish to explore this by asking the following questions:
 
 1. Do open schools exacerbate coronavirus outbreaks?
 2. Is there a difference between age groups?
