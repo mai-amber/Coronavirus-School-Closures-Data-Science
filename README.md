@@ -7,6 +7,7 @@ Udacity Data Scientist Project 1
 3. Matplotlib.pyplot
 4. Seaborn
 5. Sklearn
+
 The program was created using Python 3.
 
 ### Project Motivation:
